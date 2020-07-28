@@ -1,0 +1,22 @@
+{
+  "name": "chartr",
+  "version": "0.0.0",
+  "description": "Charts in the DOM",
+  "main": "chartr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philku/chartr.git"
+  },
+  "author": "Philip Kubin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philku/chartr/issues"
+  },
+  "homepage": "https://github.com/philku/chartr#readme",
+  "dependencies": {
+    "drawr": "0.0.0"
+  }
+}
